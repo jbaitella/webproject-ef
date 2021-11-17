@@ -1,0 +1,28 @@
+body{
+    background: rgba(245, 164, 139, 0.425);
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
+    margin-top: 50px;
+    border: 2px solid rgba(214, 90, 42, 0.534);
+    display: flex; 
+}
+
+.card{
+    border: 2px solid rgba(223, 84, 84, 0.596);
+    padding: 20px;
+    margin: 20px;
+    flex-grow: 1;
+    flex-basis: 0;<h2>Das ist ein ganz langer Titel</h2>
+
+
+}
+.background-image{
+    height: 150px;
+    background-size: cover;
+    background-position: 50% 50%;
+
+}
